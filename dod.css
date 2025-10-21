@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue
+
+}
+h1 {
+    color:black ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 4px;
+    
+}
+.box{ background-color: darkblue ;
+    border: goldenrod 10px solid ;
+    border-radius: 40px ;
+    height: 400px ;
+    width: 400px ;
+}
